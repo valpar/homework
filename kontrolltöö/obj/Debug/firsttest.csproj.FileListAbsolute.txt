@@ -1,0 +1,12 @@
+C:\Users\opilane\Source\Repos\18.09.2019---shop---Kald\Test1\bin\Debug\Test1.exe
+C:\Users\opilane\Source\Repos\18.09.2019---shop---Kald\Test1\bin\Debug\Test1.pdb
+C:\Users\opilane\Source\Repos\18.09.2019---shop---Kald\Test1\obj\Debug\Test1.csprojResolveAssemblyReference.cache
+C:\Users\opilane\Source\Repos\18.09.2019---shop---Kald\Test1\obj\Debug\Test1.csproj.CoreCompileInputs.cache
+C:\Users\opilane\Source\Repos\18.09.2019---shop---Kald\Test1\obj\Debug\Test1.exe
+C:\Users\opilane\Source\Repos\18.09.2019---shop---Kald\Test1\obj\Debug\Test1.pdb
+C:\Users\AT009CARE\Desktop\targe18\Test1\bin\Debug\Test1.exe
+C:\Users\AT009CARE\Desktop\targe18\Test1\bin\Debug\Test1.pdb
+C:\Users\AT009CARE\Desktop\targe18\Test1\obj\Debug\Test1.csprojAssemblyReference.cache
+C:\Users\AT009CARE\Desktop\targe18\Test1\obj\Debug\Test1.csproj.CoreCompileInputs.cache
+C:\Users\AT009CARE\Desktop\targe18\Test1\obj\Debug\Test1.exe
+C:\Users\AT009CARE\Desktop\targe18\Test1\obj\Debug\Test1.pdb
